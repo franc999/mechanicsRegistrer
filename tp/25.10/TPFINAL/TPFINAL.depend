@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1540263272 source:c:\users\franco\desktop\tpfinal\main.c
+	"LIBRERIAS/MENU.h"
+
+1540265314 c:\users\franco\desktop\tpfinal\librerias\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1540263554 source:c:\users\franco\desktop\tpfinal\librerias\clienteautos.c
+	"CLIENTEAUTOS.h"
+
+1540263513 c:\users\franco\desktop\tpfinal\librerias\clienteautos.h
+	"MENU.h"
+
+1540263554 source:c:\users\franco\desktop\tpfinal\librerias\menu.c
+	"MENU.h"
+
+1540265316 source:e:\tpfinal\librerias\clienteautos.c
+	"CLIENTEAUTOS.h"
+
+1540308926 e:\tpfinal\librerias\clienteautos.h
+	"MENU.h"
+	"TRABAJO.h"
+
+1540265478 e:\tpfinal\librerias\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1540263556 source:e:\tpfinal\librerias\menu.c
+	"MENU.h"
+
+1540263274 source:e:\tpfinal\main.c
+	"LIBRERIAS/MENU.h"
+
+1540308868 e:\tpfinal\librerias\trabajo.h
+	"MENU.h"
+
+1540265316 source:f:\tpfinal\librerias\clienteautos.c
+	"CLIENTEAUTOS.h"
+
+1540308926 f:\tpfinal\librerias\clienteautos.h
+	"MENU.h"
+	"TRABAJO.h"
+
+1540265478 f:\tpfinal\librerias\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1540308868 f:\tpfinal\librerias\trabajo.h
+	"MENU.h"
+
+1540263556 source:f:\tpfinal\librerias\menu.c
+	"MENU.h"
+
+1540263274 source:f:\tpfinal\main.c
+	"LIBRERIAS/MENU.h"
+
+1540323250 source:c:\users\usuario\desktop\tpfinal\librerias\clienteautos.c
+	"CLIENTEAUTOS.h"
+
+1540323252 c:\users\usuario\desktop\tpfinal\librerias\clienteautos.h
+	"MENU.h"
+	"TRABAJO.h"
+
+1540323252 c:\users\usuario\desktop\tpfinal\librerias\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
+1540323252 c:\users\usuario\desktop\tpfinal\librerias\trabajo.h
+	"MENU.h"
+
+1540323248 source:c:\users\usuario\desktop\tpfinal\main.c
+	"LIBRERIAS/MENU.h"
+
